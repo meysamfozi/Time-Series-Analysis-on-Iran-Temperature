@@ -22,7 +22,7 @@ This is achieved using Augmented Dickey-Fuller test which assists finding out th
 
 The stationarity check is carried out using the plot and p-value is tested.
 
-![Stationary_Check](https://github.com/meysamfozi/Time-Series-Analysis-for-Temperature-Forecasting-using-ARIMA-Model/blob/master/rolling_mean.png)
+![Stationary_Check](https://github.com/meysamfozi/Time-Series-Analysis-on-Iran-Temperature/blob/master/rolling_mean.png)
 
 ## Modelling and Forecasting Temperature
 
